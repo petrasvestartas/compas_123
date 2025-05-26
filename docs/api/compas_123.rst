@@ -12,4 +12,3 @@ Functions
     :toctree: generated/
     :nosignatures:
 
-    primitives.add
