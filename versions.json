@@ -2,11 +2,11 @@
   {
     "name": "Latest",
     "version": "latest",
-    "url": "/latest/"
+    "url": "https://petrasvestartas.github.io/compas_123/latest/"
   },
   {
-    "name": "0.1.1 (stable)",
-    "version": "0.1.1",
-    "url": "/0.1.1/"
+    "name": "0.1.2 (stable)",
+    "version": "0.1.2",
+    "url": "https://petrasvestartas.github.io/compas_123/0.1.2/"
   }
 ]
